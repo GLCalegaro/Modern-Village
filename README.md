@@ -1,38 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">🏘️ Modern Village</h1>
 
-## Getting Started
+## Sobre:
 
-First, run the development server:
+**Modern Village** foi desenvolvido para que funcione como um site de e-commerce de imóveis que utiliza o consumo de API, Nextjs e Reactjs, totalmente <em>responsivo.</em> O site permite que o usuário acesse e visualize as informações de todas as propriedades disponíveis através de vídeos, carrossel de imagens e todas as informações relacionadas ao imóvel. 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+![image](https://user-images.githubusercontent.com/111308068/231335922-1be30aab-5983-49f3-86e9-d562305d6c89.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Descrição:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+O site possui algumas das seguintes funcionalidades:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+   🏠 Home:
+ 
+    - Menu, formulários, contatos, e etc;
+    - São exibidos alguns imóveis através do carrosel (Swiper);
+    
+   🏚️ Propriedades:
+   
+    - Os imóveis disponíveis são exibidos de acordo com o seu ID;
+    - É possível clicar e exibir todas as informações dos imóveis como: preço, tamanho do imóvel, quartos, banheiros e etc;
+        
+- Ao clicar em "Properties", você terá acesso à página de todas as propriedades disponíveis:
+    
+  ![image](https://user-images.githubusercontent.com/111308068/231338889-dde2f4ca-aa95-4034-8075-389712017230.png)
+    
+  - Ao clicar no imóvel desejado, a página de informações estará disponível: 
+  
+  ![image](https://user-images.githubusercontent.com/111308068/231337009-3ea39e14-71f5-4bea-b5db-c0a6ccf9624d.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 📚 Bibliotecas e ferramentas utilizadas:
+- NextJS: aprimorar e adicionar funcionalidades ao React;
+- React Icons: biblioteca de icones personalizados;
+- Axios: para requisição de API;
+- Yarn: Gerenciador de pacotes de dependências;
+- ChakraUi: Biblioteca para criação de componentes simples e interfaces intuitivas e responsivas;
+- Swiper/React: Framework utilizado para apresentação de carrossel de imagens de forma personalizada;
+- Framer Motion: Framework voltado para a criação de animações, transições e outros;
+- React Hook Forms: biblioteca para utilização de formulários;
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![image](https://user-images.githubusercontent.com/111308068/231338584-fdc423b0-7e81-497a-b119-a5a388493397.png)
 
-## Learn More
+    
+- 🛠️ Tecnologias:
 
-To learn more about Next.js, take a look at the following resources:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img 
+src="https://user-images.githubusercontent.com/111308068/231340958-3e75b623-c6e9-4c86-9157-75c6413e5fc5.png" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40"/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📝 Instruções de instalação do projeto:
+- npm install --global yarn: Instalar o gerenciador de pacotes de dependências do Yarn;
+- npm install: Instala todas as dependências listadas no package.json;
+- yarn dev: Inicia a aplicação;
