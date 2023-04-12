@@ -6,7 +6,9 @@
 
 ![image](https://user-images.githubusercontent.com/111308068/231335922-1be30aab-5983-49f3-86e9-d562305d6c89.png)
 
-## Descrição:
+🔗<em>Link do deploy: [Modern Village](https://modern-village-h2rk.vercel.app/).</em>
+
+## 🗒️Descrição:
 
 O site possui algumas das seguintes funcionalidades:
 
@@ -41,7 +43,7 @@ O site possui algumas das seguintes funcionalidades:
 ![image](https://user-images.githubusercontent.com/111308068/231338584-fdc423b0-7e81-497a-b119-a5a388493397.png)
 
     
-- 🛠️ Tecnologias:
+## 🌐 Tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img 
@@ -49,7 +51,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://user-images.githubusercontent.com/111308068/231340958-3e75b623-c6e9-4c86-9157-75c6413e5fc5.png" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40"/>
 
-## 📝 Instruções de instalação do projeto:
-- npm install --global yarn: Instalar o gerenciador de pacotes de dependências do Yarn;
-- npm install: Instala todas as dependências listadas no package.json;
+## ⚙️ Instruções de instalação do projeto:
+- yarn install: Instala todas dependências listadas no package.json em sua pasta local;
 - yarn dev: Inicia a aplicação;
