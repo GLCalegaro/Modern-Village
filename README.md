@@ -10,14 +10,17 @@
 
 O site possui algumas das seguintes funcionalidades:
 
-1. Home
+   🏠 Home:
+ 
     - Menu, formulários, contatos, e etc;
-    - São exibidos alguns imóveis através de carrosel (Swiper);
-    - Propriedades:
-        - Os imóveis disponíveis são exibidos de acordo com o seu ID;
-        - É possível clicar e exibir todas as informações dos imóveis como: preço, tamanho do imóvel, quartos, banheiros e etc;
+    - São exibidos alguns imóveis através do carrosel (Swiper);
+    
+   🏚️ Propriedades:
+   
+    - Os imóveis disponíveis são exibidos de acordo com o seu ID;
+    - É possível clicar e exibir todas as informações dos imóveis como: preço, tamanho do imóvel, quartos, banheiros e etc;
         
-	- Ao clicar em "Properties", você terá acesso à página de todas as propriedades:
+- Ao clicar em "Properties", você terá acesso à página de todas as propriedades disponíveis:
     
   ![image](https://user-images.githubusercontent.com/111308068/231338889-dde2f4ca-aa95-4034-8075-389712017230.png)
     
