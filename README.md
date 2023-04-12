@@ -1,6 +1,5 @@
 <h1 align="center">🏘️ Modern Village</h1>
 
-
 ## Sobre:
 
 **Modern Village** foi desenvolvido para que funcione como um site de e-commerce de imóveis que utiliza o consumo de API, Nextjs e Reactjs, totalmente <em>responsivo.</em> O site permite que o usuário acesse e visualize as informações de todas as propriedades disponíveis através de vídeos, carrossel de imagens e todas as informações relacionadas ao imóvel. 
